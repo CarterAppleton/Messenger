@@ -11,6 +11,7 @@
 		ADC3DA431AD6E40300AEFADD /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADC3DA421AD6E40300AEFADD /* Images.xcassets */; };
 		ADC3DA461AD6E40300AEFADD /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = ADC3DA441AD6E40300AEFADD /* MainMenu.xib */; };
 		ADC3DA521AD6E40300AEFADD /* MessengerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC3DA511AD6E40300AEFADD /* MessengerTests.swift */; };
+		ADC3DA5C1AD6E4D700AEFADD /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = ADC3DA5B1AD6E4D700AEFADD /* WebKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,6 +33,7 @@
 		ADC3DA4B1AD6E40300AEFADD /* MessengerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MessengerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADC3DA501AD6E40300AEFADD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ADC3DA511AD6E40300AEFADD /* MessengerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MessengerTests.swift; sourceTree = "<group>"; };
+		ADC3DA5B1AD6E4D700AEFADD /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +41,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ADC3DA5C1AD6E4D700AEFADD /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,6 +58,7 @@
 		ADC3DA321AD6E40300AEFADD = {
 			isa = PBXGroup;
 			children = (
+				ADC3DA5B1AD6E4D700AEFADD /* WebKit.framework */,
 				ADC3DA3D1AD6E40300AEFADD /* Messenger */,
 				ADC3DA4E1AD6E40300AEFADD /* MessengerTests */,
 				ADC3DA3C1AD6E40300AEFADD /* Products */,
