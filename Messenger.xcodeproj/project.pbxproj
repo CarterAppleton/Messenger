@@ -55,10 +55,17 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		ADC3DA321AD6E40300AEFADD = {
+		AD9A8E5F1AD9C51D0046C695 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				ADC3DA5B1AD6E4D700AEFADD /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		ADC3DA321AD6E40300AEFADD = {
+			isa = PBXGroup;
+			children = (
 				ADC3DA3D1AD6E40300AEFADD /* Messenger */,
 				ADC3DA4E1AD6E40300AEFADD /* MessengerTests */,
 				ADC3DA3C1AD6E40300AEFADD /* Products */,
@@ -77,6 +84,7 @@
 		ADC3DA3D1AD6E40300AEFADD /* Messenger */ = {
 			isa = PBXGroup;
 			children = (
+				AD9A8E5F1AD9C51D0046C695 /* Frameworks */,
 				ADC3DA401AD6E40300AEFADD /* AppDelegate.swift */,
 				ADC3DA421AD6E40300AEFADD /* Images.xcassets */,
 				ADC3DA441AD6E40300AEFADD /* MainMenu.xib */,
@@ -397,6 +405,7 @@
 				ADC3DA571AD6E40300AEFADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ADC3DA581AD6E40300AEFADD /* Build configuration list for PBXNativeTarget "MessengerTests" */ = {
 			isa = XCConfigurationList;
@@ -405,6 +414,7 @@
 				ADC3DA5A1AD6E40300AEFADD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>36C6852C-4272-45CB-B157-41A9C27243DE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Messenger</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6FD75A132EAC843B6265E634F2FE5E6A9900E2C4</key>
+		<string>https://github.com/CarterAppleton/Messenger.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Messenger.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6FD75A132EAC843B6265E634F2FE5E6A9900E2C4</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/CarterAppleton/Messenger.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6FD75A132EAC843B6265E634F2FE5E6A9900E2C4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6FD75A132EAC843B6265E634F2FE5E6A9900E2C4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Messenger</string>
+		</dict>
+	</array>
+</dict>
+</plist>
